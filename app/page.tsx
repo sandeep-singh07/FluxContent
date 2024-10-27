@@ -92,7 +92,7 @@ const Features = () => {
   const features = [
     {
       title: "AI-Powered Templates",
-      description: "Choose from a wide range of AI-optimized templates for any content type.",
+      description: "Choose from a wide range of AI templates for any content type.",
       icon: "🧠",
       color: "bg-gradient-to-r from-purple-400 to-pink-600",
     },
@@ -109,21 +109,21 @@ const Features = () => {
       color: "bg-gradient-to-r from-yellow-400 to-orange-500",
     },
     {
-      title: "SEO Optimization",
-      description: "Boost your content's visibility with AI-driven SEO recommendations.",
+      title: "History Tracking",
+      description: "View your history of previous created content.",
       icon: "🔍",
       color: "bg-gradient-to-r from-blue-400 to-indigo-600",
     },
     {
-      title: "Analytics Dashboard",
-      description: "Track your content's performance with comprehensive analytics.",
-      icon: "📊",
+      title: "30+ Content Templates",
+      description: "Unlock creativity and explore with over 30+ diverse templates.",
+      icon: "📄",
       color: "bg-gradient-to-r from-red-400 to-pink-500",
     },
     {
-      title: "Collaboration Tools",
-      description: "Work seamlessly with your team in real-time.",
-      icon: "👥",
+      title: "Works Seamlessly",
+      description: "Enjoy a fluid and intuitive experience across the platform.",
+      icon: "😍",
       color: "bg-gradient-to-r from-teal-400 to-green-500",
     },
   ];
